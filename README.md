@@ -10,10 +10,10 @@ first project
 
 
 second project
-
 {
 
-![secod project](https://user-images.githubusercontent.com/124686068/221096111-481e4608-a66a-42dc-9d6d-1ac0a01e268a.png)
+![Uploading screencapture-127-0-0-1-5500-11-feb2023-second-project-index-html-2023-02-24-10_37_27.png…]()
+
 }
 
 
